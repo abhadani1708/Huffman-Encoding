@@ -1,6 +1,5 @@
 # Huffman-Encoding
-Huffman_Coding_Java
-Huffman coding algorithm in Java to achieve efficient compression and decompression of data while maintaining its integrity. Utilized various data structures such as HashMap, PriorityQueue, and Map to store and manipulate information effectively.
+Huffman encoding algorithm in Java to achieve efficient compression and decompression of data while maintaining its integrity. Utilized various data structures such as HashMap, PriorityQueue, and Map to store and manipulate information effectively.
 
 # Getting Started
 These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
